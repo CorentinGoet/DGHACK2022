@@ -1,0 +1,7 @@
+nombre var 0
+
+incrementer var 12
+message $var
+
+incrementer var -17
+message $var

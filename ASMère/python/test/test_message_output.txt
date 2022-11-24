@@ -1,0 +1,6 @@
+test sans guillemets
+test avec variable 42
+test guillemets un seul bloc éà%&#
+test multi guillemets espaces compliqués
+test avec et sans guillemets
+test guillemets avec variable $var: 42

@@ -1,0 +1,12 @@
+message test sans guillemets
+
+nombre var 42
+message test avec variable $var
+
+message "test guillemets un seul bloc éà%&#"
+
+message "test " "multi guillemets" " " "espaces compliqués"
+
+message test "avec" et "sans guillemets"
+
+message test "guillemets" avec "variable $var: " $var

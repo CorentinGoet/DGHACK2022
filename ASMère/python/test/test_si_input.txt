@@ -1,0 +1,26 @@
+nombre i 12
+nombre j -1
+
+si 2 < 3
+message "< ok"
+finsi
+
+si $i == $j
+message "== not ok"
+finsi
+
+si 0 > $j
+message "> ok"
+finsi
+
+si 2 <= $j
+message "<= not ok"
+finsi
+
+si $i >= 5
+message ">= ok"
+finsi
+
+si $i != $j
+message "!= ok"
+finsi
