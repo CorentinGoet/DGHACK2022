@@ -23,6 +23,8 @@ Le coffre-fort secret ne semble pas déchiffrer correctement. Corrigez-le pour o
 
 ## Write-Up
 
+- [Fixed SecretVault.go](fixed_SecretVault.go)
+
 First, I tried compile the program using:
 
 ```bash

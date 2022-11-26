@@ -21,7 +21,7 @@ This repository contains the Write-Ups for the challenges I solved, I got the 13
 **Steganography:**
 
 - Ne Jamais Renoncer
-- Is It Art
+- [Is It Art](IsItArt/Is%20it%20art.md)
 
 **Web:**
 - Un chasseur sachant chasser
