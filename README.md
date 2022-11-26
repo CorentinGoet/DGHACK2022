@@ -24,7 +24,7 @@ This repository contains the Write-Ups for the challenges I solved, I got the 13
 - [Is It Art](IsItArt/Is%20it%20art.md)
 
 **Web:**
-- Un chasseur sachant chasser
+- [Un chasseur sachant chasser](UnChasseurSachantChasser/Un%20chasseur%20sachant%20chasser.md)
 
 **Detection:**
 - Shadow4DGA-1
